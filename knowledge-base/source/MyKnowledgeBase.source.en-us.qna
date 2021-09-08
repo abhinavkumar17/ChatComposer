@@ -1,0 +1,1135 @@
+> !# @source.url=https://prdsupprdwu2storage0.blob.core.windows.net/prdsupprdwu2-static-files/TMO-SyncUP-PETS-Quick-Start-Guide.pdf
+          > !# @source.multiTurn=false
+          > # QnA pairs
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "1"></a>
+
+# ? What is SyncUP PETS?
+
+**Filters:**
+- explicitlytaggedheading = what is syncup pets?
+
+```markdown
+**What is SyncUP PETS?**
+
+SyncUP PETS™ is a T-Mobile network enabled tracker that attaches to a pet’s collar and works with the SyncUP PETS app. The app gives you location updates on your pet if they’re wearing the tracker and will notify you if your tracker ever leaves a safe zone. It even tracks your pet’s activity throughout the day. The tracker works on a wide range of fun-loving and adventurous pets, including dogs, cats, horses and pigs. By knowing more, you’ll worry less and feel even more connected to your special friends.
+
+The tracker takes advantage of T-Mobile’s narrowband network and low power communication. SyncUP PETS provides location information with a combination of the T-Mobile network and GPS. Built-in Wi-Fi and Bluetooth Low Energy (BLE) radios provide additional communication channels and low power location tracking. The tracker includes a multi-color LED and a user button.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "2"></a>
+
+# ? SyncUP PETS Requirements
+
+**Filters:**
+- explicitlytaggedheading = syncup pets requirements
+
+```markdown
+**SyncUP PETS Requirements**
+
+The following is required to use the SyncUP PETS product:
+
+*   Bluetooth version 4.2 or later
+
+*   Wi-Fi – 802.11n at 2.4 GHz to support safe zones and device firmware updates
+
+*   Android 7 or later (tablets not supported)
+
+*   iOS 11 or later (iPad not supported)
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "3"></a>
+
+# ? SyncUP PETS App
+
+**Filters:**
+- explicitlytaggedheading = syncup pets app
+
+```markdown
+**SyncUP PETS App**
+
+The SyncUP PETS app is required for the complete experience, including accessing your pet’s location. The app is available for free. Search for SyncUP PETS in the Apple App Store, Google Play, or visit: www.t-mobile.com/syncuppets.
+
+Tip: Verify that your smartphone is up to date with the latest operating system and that it meets the minimum technical requirements.
+
+✪ What’s Included?
+
+Tracker—Round device with a light on the front, button on the back, and a battery and components inside. ✪
+
+Collar mount—Holds the tracker and secures it in place on your pet’s collar. ✪
+
+Bands—Flexible bands that attach to tabs on the collar mount to secure it to the collar. ✪
+
+Wall charger—Plugs into a standard US wall outlet; includes a USB port for connecting to the tracker. ✪ USB cable—Connects to the charging dock or power adapter for battery recharge. ✪
+
+Charging dock—Holds the tracker in place for recharging with the included cable. ✪
+
+Quick Start Guide—Helps you set up and start using the tracker.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "4"></a>
+
+# ? Tracker Button - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = tracker button
+
+```markdown
+**Tracker Button**
+
+Use the button located on the back of your tracker to perform various device functions.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "5"></a>
+
+# ? Activity Monitoring - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = activity monitoring
+
+```markdown
+**Activity Monitoring**
+
+Monitor your pets with the in-app activity tracker. Track their movement over days, weeks, or months.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "6"></a>
+
+# ? Activity Goals - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = activity goals
+
+```markdown
+**Activity Goals**
+
+Activity goals are a fun way to keep your pet healthy and active. Set a daily goal for your pet in hours or minutes.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "7"></a>
+
+# ? Safe Zones - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = safe zones
+
+```markdown
+**Safe Zones**
+
+Create virtual fences in areas you consider safe for your pet. If your pet ever leaves the area, the app will notify you, so you can quickly bring them back to safety.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "8"></a>
+
+# ? Last Known Location
+
+**Filters:**
+- explicitlytaggedheading = last known location
+
+```markdown
+**Last Known Location**
+
+View your pet’s location on a virtual map and track their movements so long as they’re wearing the tracker.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "9"></a>
+
+# ? Tracking Mode - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = tracking mode
+
+```markdown
+**Tracking Mode**
+
+Increase the frequency at which your tracker sends location updates, so you can find your pets fast and bring them home safe.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "10"></a>
+
+# ? Device Light - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = device light
+
+```markdown
+**Device Light**
+
+Device light is a feature that helps you keep track of your pet once the sun goes down. It’s perfect for evening potty breaks and exploring after dark.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "11"></a>
+
+# ? Reminders - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = reminders
+
+```markdown
+**Reminders**
+
+Create reminders to give your furry friend treats, belly rubs, or anything else you can think of!
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "12"></a>
+
+# ? Appointments - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = appointments
+
+```markdown
+**Appointments**
+
+Never miss a vet appointment or a doggie date.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "13"></a>
+
+# ? Store Documents - FEATURES
+
+**Filters:**
+- explicitlytaggedheading = store documents
+
+```markdown
+**Store Documents**
+
+Stay organized by storing things like vet bills, pet insurance, travel certificates, and more.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "14"></a>
+
+# ? Tracker LED Indicators
+
+**Filters:**
+- explicitlytaggedheading = tracker led indicators
+
+```markdown
+**Tracker LED Indicators**
+
+The tracker has a light-emitting diode (LED) on the front to indicate various conditions.
+
+Here’s what each light means:
+
+| Color | Meaning |
+| --- | --- |
+| Flashing blue every second | Tracker is pairing with the phone. Light turns solid blue for 10 seconds when successfully paired. |
+| Double-flashing purple | After a button press, it will flash purple twice to indicate the tracker is off but has battery charge. |
+| Flashing red | When the tracker is on the charger, this means that battery power level is very low. Leave the tracker on the charger. |
+| Flashing yellow | When the tracker is on the charger, this means that battery power level is low. Also flashes yellow after a button press when the tracker is having trouble connecting to the T-Mobile network. |
+| Flashing green | When the tracker is on the charger, this means that battery power level is mostly charged. |
+| Solid green | This means that the battery power level is fully charged. You are good to go! |
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "15"></a>
+
+# ? The Meaning for Color Flashing blue every second - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Flashing blue every second**
+is Tracker is pairing with the phone. Light turns solid blue for 10 seconds when successfully paired.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "16"></a>
+
+# ? The Meaning for Color Double-flashing purple - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Double-flashing purple**
+is After a button press, it will flash purple twice to indicate the tracker is off but has battery charge.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "17"></a>
+
+# ? The Meaning for Color Flashing red - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Flashing red**
+is When the tracker is on the charger, this means that battery power level is very low. Leave the tracker on the charger.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "18"></a>
+
+# ? The Meaning for Color Flashing yellow - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Flashing yellow**
+is When the tracker is on the charger, this means that battery power level is low. Also flashes yellow after a button press when the tracker is having trouble connecting to the T-Mobile network.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "19"></a>
+
+# ? The Meaning for Color Flashing green - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Flashing green**
+is When the tracker is on the charger, this means that battery power level is mostly charged.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "20"></a>
+
+# ? The Meaning for Color Solid green - Tracker LED Indicators
+
+**Filters:**
+- generatedfromtable = true
+
+```markdown
+**The Meaning for Color Solid green**
+is This means that the battery power level is fully charged. You are good to go!
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "21"></a>
+
+# ? CARE AND CLEANING
+
+**Filters:**
+- explicitlytaggedheading = care and cleaning
+
+```markdown
+**CARE AND CLEANING**
+
+Use a soft, clean cloth and warm water to wipe off the tracker, collar attachment, and bands. While most household cleaners should not stain or damage the device, check on a small area first. The charging dock and AC adapter should only be cleaned with a dry, clean cloth.
+
+Some chemicals, such as certain flea sprays or cleaning agents, will stain or damage the plastic components. Please be sure to remove the tracker and collar mount before applying these to your pet and do not apply directly to the device.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "22"></a>
+
+# ? Battery - SPECIFICATIONS
+
+**Filters:**
+- explicitlytaggedheading = battery
+
+```markdown
+**Battery**
+
+*   Battery Type: Li-Ion
+
+*   Battery capacity (mAh): 430
+
+*   Battery Charger: Dock with pogo pins, USB-C to A cable, USB-A AC adapter
+
+*   Expected Battery Life: Up to 8 days depending on usage and ability to use Wi-Fi and BLE connections
+
+*   Highest specified charging temperature: 45℃
+
+*   Lowest specified charging temperature: 11℃
+
+Note: The device may not charge at high temperatures (>40 ℃ /104 F ) to prevent permanent damage to the battery and tracker.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "23"></a>
+
+# ? General - SPECIFICATIONS
+
+**Filters:**
+- explicitlytaggedheading = general
+
+```markdown
+**General**
+
+*   Display: None
+
+*   Waterproof/Dust Rating: IP67
+
+*   SIM: Embedded
+
+*   Sensors: Accelerometer, Temperature
+
+*   User Controls: Button
+
+*   LED Light: Red, Green, Blue, White (RGBW)
+
+*   Speaker: Piezoelectric buzzer
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "24"></a>
+
+# ? Networks - SPECIFICATIONS
+
+**Filters:**
+- explicitlytaggedheading = networks
+
+```markdown
+**Networks**
+
+*   NB-IOT
+
+*   LTE Bands: 2, 4, 12, and 66
+
+*   Roaming: Not supported
+
+*   FCC ID: 2ASXC-TMO-NBT-01
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "25"></a>
+
+# ? Connectivity - SPECIFICATIONS
+
+**Filters:**
+- explicitlytaggedheading = connectivity
+
+```markdown
+**Connectivity**
+
+*   Wi-Fi: 802.11n on 2.4GHz
+
+*   Bluetooth® BLE version 4.2 Class 1
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "26"></a>
+
+# ? How to Create your Account
+
+**Filters:**
+- explicitlytaggedheading = how to create your account
+
+```markdown
+**How to Create your Account**
+
+Open the SyncUP PETS app on your smartphone and follow these steps.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "27"></a>
+
+# ? If you have an existing T-Mobile account:
+
+```markdown
+**If you have an existing T-Mobile account:**
+
+1.  Enter your phone number and password and tap Log In. ✪
+
+2.  Answer the security questions to verify your account and tap Continue. 
+
+✪
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "28"></a>
+
+# ? If you don’t have a T-Mobile account:
+
+```markdown
+**If you don’t have a T-Mobile account:**
+
+1.  Tap Get a T-Mobile ID. A T-Mobile ID is your key to keeping your account up-to-date and secure.✪
+
+2.  Enter your registration information and tap Sign me up. ✪
+
+3.  Enter the code from the message we sent to your email address and tap Verify my email. ✪
+
+4.  Enter the code from the text message we sent to your mobile device and tap Verify my phone. ✪
+
+5.  Follow the steps to set up security questions for your account and tap Done. 
+
+✪
+
+Once you are logged in, the app displays the T-Mobile Terms of Service and the Information Collection Notice. Tap Accept to continue.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "29"></a>
+
+# ? How to Create a Pet Profile
+
+**Filters:**
+- explicitlytaggedheading = how to create a pet profile
+
+```markdown
+**How to Create a Pet Profile**
+
+Use the SyncUP PETS app to enter information about your pet all in one place.
+
+1.  Tap Add a Pet in the SyncUP PETS app on your phone.  ✪
+
+2.  Enter details about your pet, then tap Next. 
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "30"></a>
+
+# ? ✪ How to Add a Photo
+
+```markdown
+**✪ How to Add a Photo**
+
+Use the SyncUP PETS app to add a picture to your pet’s profile.
+
+1.  Tap Take a photo if you don’t already have a pet picture or tap Photo library to use an existing picture on your phone.✪
+
+2.  The app will ask for permission to access your camera or photo library, depending on the option that you selected. Tap Allow to continue.  ✪ ✪
+
+3.  Take a new picture with your phone or upload one from your gallery and tap Save. ✪
+
+4.  That’s it! You are done with the pet profile. If you haven’t already paired the device, you will be prompted for that. Or just tap Close to return to the Home screen.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "31"></a>
+
+# ? ✪ How To Charge the Tracker
+
+```markdown
+**✪ How To Charge the Tracker**
+
+Unpack the contents of the box and follow these steps to charge the tracker before usage.
+
+1.  Place the tracker in the charging dock.
+
+2.  Turn the tracker clockwise until it locks into place.
+
+3.  Connect the charging dock to the wall charger with the USB cable and plug it in.
+
+That’s it! When charging is complete the light on the front of the tracker turns solid green.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "32"></a>
+
+# ? RECOMMENDED: - ✪ How To Charge the Tracker
+
+```markdown
+**RECOMMENDED:**
+
+Keep the tracker placed on the charger and connected to Wi-Fi when you are not using it to get the latest firmware updates. Only use the provided wall charger, USB cable, and charging dock when charging your device. Using other charging accessories may impact the battery life of your tracker.
+
+ How to Pair
+
+After making a pet profile you will be prompted to place your device on the charging dock and wait about 45 seconds until the tracker’s LED light starts flashing. This puts the tracker into pairing mode.
+
+1.  After you’ve placed the device on the charger and followed the prompt, tap Next. ✪
+
+2.  After tapping next you will be asked to select your device, which is identified by the last few digits of your IMEI number. Doing so will start the pairing process.✪ ✪
+
+3.  After your device has finished pairing you will get a confirmation message and will be prompted to connect to Wi-Fi. At this point your device is in the process of being onboarded, which can take between 30 minutes and 24 hours. Going for a walk with the device can help speed up this process!
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "33"></a>
+
+# ? ✪ How to Pair with the Tracker Button
+
+```markdown
+**✪ How to Pair with the Tracker Button**
+
+The tracker has a button on the back that you can press to activate various functions such as pairing to your smartphone. (Don’t worry, your pet can’t press the button during normal usage!)
+
+Follow these steps to trigger pairing—it should only take a few minutes.
+
+NOTE:
+
+If you have recently unpaired your device from another phone/account, you may need to wait up to 30 minutes before attempting to pair again.
+
+1.  In the SyncUP PETS app, tap Pair device on the home screen.✪
+
+2.  You will be prompted for Bluetooth if it is not already turned on. Tap Allow to continue. Note: If you don’t turn on Bluetooth you will have to pair manually in order to activate the device.✪
+
+3.  Press the button on the back of the tracker and hold it down until the device beeps and the light on the front flashes blue every second. This means that the tracker is in pairing mode. If no LEDs are appearing, place the tracker on the charging dock. Once the tracker has enough charge, it will automatically turn back on, and if it hasn’t paired with the app, it will start pairing mode.✪
+
+4.  Tap Next. ✪
+
+5.  Select your device from the list to start pairing. If pairing is unsuccessful, you may get a screen prompting you to pair again.✪ ✪
+
+6.  The light turns solid blue when pairing is successful. Now your tracker is all set—it’s connected to your phone and onboarding is pending on the network. This should normally take about 30 minutes or less—if it’s taking longer than that, go for a walk outside with your pet to speed up the process--don't forget your leash!
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "34"></a>
+
+# ? How to Pair Manually
+
+**Filters:**
+- explicitlytaggedheading = how to pair manually
+
+```markdown
+**How to Pair Manually**
+
+You may have to pair manually if auto-sync does not work. Follow these steps If you have trouble pairing, or if the tracker does not pair automatically with your phone.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "35"></a>
+
+# ? Tap Pair manually.
+
+```markdown
+**Tap Pair manually.**
+
+✪
+
+ Note: If Bluetooth is turned off you will see Pair manually on a different screen:
+
+✪
+
+  Enter the 15-digit IMEI code located on the bottom of the tracker and tap Next to complete the manual pairing process.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "36"></a>
+
+# ? ✪ How to Connect to Wi-Fi
+
+```markdown
+**✪ How to Connect to Wi-Fi**
+
+NOTE:
+
+The tracker can only be connected to Wi-Fi if your phone has already successfully paired with the tracker over the BLE frequency.
+
+1.  Tap Connect to Wi-Fi network. Or just tap Skip to do it later. ✪
+
+2.  The app searches for available Wi-Fi networks.✪
+
+3.  When the app finds your Wi-Fi network, select it.✪
+
+4.  Enter the Wi-Fi password.✪
+
+5.  That’s it! You are connected to Wi-Fi. Tap Done. 
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "37"></a>
+
+# ? ✪ How to Attach the Tracker to your Pet’s Collar
+
+```markdown
+**✪ How to Attach the Tracker to your Pet’s Collar**
+
+1.  Attach one of the short ends of a single band to any tab on the collar mount.✪
+
+2.  Place the collar mount (with the attached band) on the top side of your pet's collar. Pull the unattached end of the band under the collar and attach it to the tab on the other side of the collar mount.✪
+
+3.  Insert the round tracker into the collar mount. Turn the tracker clockwise until it locks into position.
+
+✪
+
+That’s it! You are ready to go. But if you need to remove the tracker from the mount for charging, just turn it counterclockwise.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "38"></a>
+
+# ? Know Your Home Screen
+
+**Filters:**
+- explicitlytaggedheading = know your home screen
+
+```markdown
+**Know Your Home Screen**
+
+Your home screen is where you can access all the features available in the SyncUP PETS app experience. It also provides helpful device information such as battery and location updates in the form of color-coded icons and time stamps.
+
+NOTE:
+
+The map marker icon near your pet’s picture indicates their safe zone status. If the icon is red, it means your pet is currently outside of the safe zone. If it is green, your pet is inside the safe zone. The icon will also appear grey if the device is offline, or if there are no safe zones assigned to the current pet.
+
+The battery icon near your pet’s picture tells you how much battery you have left based on your tracker’s last update. If the icon is green, your tracker is mostly charged. If the icon is yellow, the battery is getting low. If the icon is red, the battery is very low and needs to be placed on a charger. If the battery is dead or the tracker is offline, the icon will appear grey.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "39"></a>
+
+# ? How to Create a Safe Zone
+
+**Filters:**
+- explicitlytaggedheading = how to create a safe zone
+
+```markdown
+**How to Create a Safe Zone**
+
+A safe zone is an imaginary border drawn around a point by a GPS tracking system. You pick a location and decide how large of an area to include inside the imaginary border. Safe zones can have a radius as small as 50 meters and as large as 50 miles.
+
+NOTE:
+
+The app will prompt for Settings if you haven’t previously opted into accepting notifications, if you deny notifications, or if your notifications are turned off.
+
+✪
+
+  Navigate to the map screen by tapping the Geotab icon in the bottom middle of your home screen. Then tap Add a safe zone. 
+
+✪
+
+2.  Follow the steps in the app to create the safe zone size and shape then tap Save. 
+
+3.  Type a name for the safe zone.
+
+4.  Tap Assign to pet, select one of the pets in the list and tap Save.  
+
+5.  Tap Safe zone status to enable the safe zone.
+
+6.  Tap Save one final time to complete your safe zone setup.
+
+NOTE:
+
+If your pet leaves a safe zone, the app sends a notification as soon as the location updates. It also sends a notification once the pet has re-entered the safe zone.
+
+If you’d like to create additional safe zones, simply tap Safe Zones on the pet map.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "40"></a>
+
+# ? How to Delete a Safe Zone
+
+**Filters:**
+- explicitlytaggedheading = how to delete a safe zone
+
+```markdown
+**How to Delete a Safe Zone**
+
+1.  Navigate to your existing safe zones by tapping Safe Zones on the pet map screen.✪
+
+2.  Tap View on the safe zone you would like to delete.✪
+
+3.  Tap Delete. ✪
+
+4.  You will receive a notification confirming you’d like to delete your safe zone. Tap Delete again. Your safe zone should now be deleted.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "41"></a>
+
+# ? ✪ How to Turn on Tracking Mode
+
+```markdown
+**✪ How to Turn on Tracking Mode**
+
+Tracking mode allows you to find your pet quickly by increasing the frequency at which your device sends location updates.
+
+1.  To turn on tracking mode, first navigate to your pet map by tapping the icon in the bottom-middle of your screen.✪
+
+2.  On the map screen, tap the avatar of the pet you’d like to track. Then tap Track. ✪
+
+3.  You will get a confirmation message asking if you want to continue and warning you about battery consumption. Tap Track to continue.✪
+
+4.  Tracking mode may take a few minutes to enable. You know tracking mode is enabled when your pet is highlighted in green. From here you can also choose to get directions to your pet as the location updates. To do this, simply tap Get Directions from the prompt that appears at the top of your screen. To turn off tracking mode, tap Stop tracking. 
+
+✪ ✪
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "42"></a>
+
+# ? How to Turn on the Device Light
+
+**Filters:**
+- explicitlytaggedheading = how to turn on the device light
+
+```markdown
+**How to Turn on the Device Light**
+
+Device light is a feature that helps you keep track of your pet once the sun goes down. It’s perfect for evening potty breaks and exploring after dark. To turn on the device light, Bluetooth must be enabled on your phone and you must be in Bluetooth range of your SyncUP PETS device.
+
+1.  To turn on device light, simply tap the device light icon located on the bottom left of the home screen.✪
+
+2.  If Bluetooth is not currently on, you will receive a message asking for permission. Tap Allow. ✪
+
+3.  After a brief activation time, the light should turn on. If this is your first-time activating device light, you will receive a message educating you on how device light impacts your battery.✪
+
+4.  To turn off device light, make sure your device is within Bluetooth range and simply tap the icon again.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "43"></a>
+
+# ? ✪ How to Track Activity
+
+```markdown
+**✪ How to Track Activity**
+
+Use Activity to track your pet’s activity by day, week, or month. Activity will be automatically captured in the app if your pet is wearing the device.
+
+1.  Select Activity from the home page in the SyncUP PETS app.✪
+
+2.  Tap Day to view the Daily Movement graph. It shows up to eight days of activity on a per hour basis. The bar graph highlights the difference in movement based on the 24-hours in each day.✪
+
+3.  Tap Week to view the Weekly Movement graph. It shows up to five weeks of activity and for each week, it provides a culmination of the previous seven days of activity.✪
+
+4.  Tap Month to view the Monthly Movement graph. It shows up to 13 months of activity and for each month, it’s a calculation of the culmination of each week’s activity within that month.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "44"></a>
+
+# ? ✪ How to Set an Activity Goal
+
+```markdown
+**✪ How to Set an Activity Goal**
+
+Activity goals are a fun way to keep your pet healthy and active.
+
+1.  From the activity screen, tap Set daily goal. ✪
+
+2.  Set your goal in minutes or hours. Tap Save. Your goal is now set!
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "45"></a>
+
+# ? ✪ How to Create a Reminder
+
+```markdown
+**✪ How to Create a Reminder**
+
+Create reminders to give your furry friend treats, belly rubs, or anything else you can think of!
+
+1.  Tap Health Journal on the home screen of your app.✪
+
+2.  Tap Reminders. ✪
+
+3.  Tap the + symbol. ✪
+
+4.  Enter information about your reminder. Then tap Save. ✪
+
+5.  Good job! You’ve successfully created your first reminder.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "46"></a>
+
+# ? ✪ How to Set an Appointment
+
+```markdown
+**✪ How to Set an Appointment**
+
+You can set appointments to keep up with all your doggie dates and vet visits.
+
+1.  Select Health Journal from the home page in the SyncUP PETS app.✪
+
+2.  Tap Appointments. ✪
+
+3.  Tap the + symbol. ✪
+
+4.  Enter information about your appointment. Then tap Save. ✪
+
+5.  Good job! You’ve successfully created your first appointment.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "47"></a>
+
+# ? ✪ How to Store a Document
+
+```markdown
+**✪ How to Store a Document**
+
+Stay organized by storing things like vet bills, pet insurance, and travel certificates.
+
+1.  Tap Health Journal from the home page within the SyncUP PETS app.✪
+
+2.  Tap Medical Documents. ✪
+
+3.  Tap the + symbol. ✪
+
+4.  Choose whether you’d like to upload a document from your phone, take a photo of one, or create your own from scratch.✪
+
+5.  After choosing your document, or creating one simply add a label and tap Save. ✪ ✪ ✪
+
+6.  Paw-some job! You can now view your saved documents on the Medical Documents page.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "48"></a>
+
+# ? ✪ How to Share a Document
+
+```markdown
+**✪ How to Share a Document**
+
+1.  Tap Health Journal from the home page within the SyncUP PETS app.✪
+
+2.  Tap Medical Documents. ✪
+
+3.  Tap the  symbol located in the upper right of your documents screen.✪✪
+
+4.  Select the document you’d like to share then tap the  symbol located in the bottom right of your screen.✪✪
+
+5.  After tapping the  symbol simply choose where you’d like to share your document.  
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "49"></a>
+
+# ? ✪ How to Remove a Pet Profile
+
+```markdown
+**✪ How to Remove a Pet Profile**
+
+1.  From the home screen, tap on your Pet Profile. Your pet profile is identified by the picture of your pet.✪
+
+2.  Scroll to the bottom of the screen and tap Remove profile. ✪
+
+3.  You will receive a notification asking if you’re sure you’d like to remove the profile. Tap Remove. Your profile has now been removed.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "50"></a>
+
+# ? ✪ How to Unpair Your Tracker
+
+```markdown
+**✪ How to Unpair Your Tracker**
+
+1.  On the home screen, tap Device. ✪
+
+2.  Scroll to the bottom of the screen and tap Remove Device. ✪
+
+3.  You will receive a notification confirming if you’d like to remove the device. Tap Remove. Your device is now unpaired.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "51"></a>
+
+# ? ✪ BASIC TROUBLESHOOTING
+
+```markdown
+**✪ BASIC TROUBLESHOOTING**
+
+Some issues can be solved by performing a firmware update. To update your firmware, simply place your device on the charging dock, make sure it’s connected to Wi-Fi, and wait a few hours.
+
+The button located on the back of your device allows you to perform a few actions that may be useful when troubleshooting.
+
+Here’s what you can do with the button: 
+
+*   Immediately send a location message—press the button once (short press, less than two seconds).
+
+*   Turn off the tracker—press the button and hold it down for at least 10 seconds. The LED will flash purple twice as it turns off.
+
+*   Turn on the tracker when it’s off—press the button and hold it down for at least 10 seconds. You will see the LED flash white as it turns back on.
+
+*   Trigger pairing—press the button and hold it down for three seconds. The tracker will beep and start flashing blue.
+
+*   Reset the tracker to normal operation—do two short presses.
+
+*   To factory reset the device, removing all Wi-Fi and BLE pairing information, press the button five times, pause, press five times again, pause, and press and hold the button. The LED will flash white twice and then turn off.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "52"></a>
+
+# ? Federal Communication Commission Interference Statement
+
+**Filters:**
+- explicitlytaggedheading = federal communication commission interference statement
+
+```markdown
+**Federal Communication Commission Interference Statement**
+
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications.  However, there is no guarantee that interference will not occur in a particular installation.  If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one of the following measures:
+
+*   Reorient or relocate the receiving antenna.
+
+*   Increase the separation between the equipment and receiver.
+
+*   Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+
+*   Consult the dealer or an experienced radio/TV technician for help.
+
+FCC Caution: Any changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate this equipment.
+
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+
+This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "53"></a>
+
+# ? Cautions - APPENDIX B
+
+**Filters:**
+- explicitlytaggedheading = cautions
+
+```markdown
+**Cautions**
+
+*   Battery is not user replaceable. Risk of damage to device and others if the battery is replaced by an incorrect type.
+
+*   Disposal of a battery into fire or a hot oven, or mechanically crushing or cutting of a battery, can result in a risk to others;
+
+*   Battery operating temperature is -20c to 60c;
+
+*   This product is intended to be supplied by a UL Listed Power Adapter marked "L.P.S." (or "Limited Power Source"), output rated 5Vdc, 1A minimum, Tma = 45 degree C minimum”.
+
+*   Ensure to connect the power cord to a socket-outlet with earthing connection, or equivalent.
+
+*   Over temperature protection of the battery was set to 42±1 ℃ for highest specified charging temperature of and 11±1℃ for lowest specified charging temperature.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "54"></a>
+
+# ? FCC Radiation Exposure Statement
+
+```markdown
+**FCC Radiation Exposure Statement**
+
+This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance 20 cm between the radiator & your body.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "55"></a>
+
+# ? ADDITIONAL INFORMATION
+
+**Filters:**
+- explicitlytaggedheading = additional information
+
+```markdown
+**ADDITIONAL INFORMATION**
+
+No part of this publication may be excerpted, reproduced, translated or utilized in any form or by any means, electronic or mechanical, including photocopying and microfilm, without the prior written permission of T-Mobile USA, Inc. The manual is published by T-Mobile USA, Inc. We reserve the right to make modifications on print errors or update specifications without prior notice.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "56"></a>
+
+# ? Approved Firmware Versions
+
+**Filters:**
+- explicitlytaggedheading = approved firmware versions
+
+```markdown
+**Approved Firmware Versions**
+
+This device will only operate with firmware versions that have been approved for use by T-Mobile and the device manufacturer. If unauthorized firmware is placed on the device it will not function. Qualifying plan, app and GPS signal required. Device images simulated. Coverage not available in some areas. See Terms and Conditions (including arbitration provision) at T-Mobile.com, for rate plan information, charges for features and services, and restrictions and details. T-Mobile and the magenta color are registered trademarks of Deutsche Telekom AG. SyncUP PETS and the SyncUP PETS logo are trademarks of T-Mobile USA, Inc. ©2019 T-Mobile USA, Inc.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "57"></a>
+
+# ? SUPPORT
+
+**Filters:**
+- explicitlytaggedheading = support
+
+```markdown
+**SUPPORT**
+
+Still need help? Reach out to T-Mobile General Customer Care & Technical Support. Customer Care representatives are available daily from 3:00am to 10:00pm PT.
+```
+
+> !# @qna.pair.source = onlineFile.pdf
+
+<a id = "58"></a>
+
+# ? How to reach us
+
+**Filters:**
+- explicitlytaggedheading = how to reach us
+
+```markdown
+**How to reach us**
+
+By postal mail: T-Mobile USA, Inc. 12920 SE 38th Street, Bellevue, Washington, United States, 98006
+
+From your phone dial 611 or 1.877.453.1304. If you are calling about technical issues related to your T-Mobile service, please call from a different phone so we can help troubleshoot the issue.
+
+Call Us - TTY
+
+TTY service is available for the hearing and speech impaired. Hours are 5:00am to 10:00pm PT, daily. Call us via TTY toll free at 1-877-296-1018
+
+For access to our T-Mobile Support Community, visit: https://support.t-mobile.com
+```
+
+
+          
